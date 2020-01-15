@@ -1,0 +1,10 @@
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\bin\Debug\lyricsTrainer.exe.config
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\bin\Debug\lyricsTrainer.exe
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\bin\Debug\lyricsTrainer.pdb
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\obj\Debug\lyricsTrainer.csprojAssemblyReference.cache
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\obj\Debug\lyricsTrainer.exe
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\obj\Debug\lyricsTrainer.pdb
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\bin\Debug\HtmlAgilityPack.dll
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\bin\Debug\HtmlAgilityPack.xml
+C:\Users\brade\source\repos\lyricsTrainer\lyricsTrainer\obj\Debug\lyricsTrainer.csproj.CopyComplete
